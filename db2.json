@@ -1,0 +1,1087 @@
+{
+  "easternConference": [
+    {
+      "teamName": "Philadelphia Sixers",
+      "teamImage": "https://d2p3bygnnzw9w3.cloudfront.net/req/202106153/tlogo/bbr/PHI.png",
+      "players": [
+        {
+          "name": "Joel Embiid",
+          "team": "PHI",
+          "playerImage": "https://www.basketball-reference.com/req/202106092/images/players/embiijo01.jpg",
+          "position": "C"
+        },
+        {
+          "name": "Ben Simmons",
+          "team": "PHI",
+          "playerImage": "https://www.basketball-reference.com/req/202106092/images/players/simmobe01.jpg",
+          "position": "PG"
+        },
+        {
+          "name": "Tobias Harris",
+          "team": "PHI",
+          "playerImage": "https://www.basketball-reference.com/req/202106092/images/players/harrito02.jpg",
+          "position": "PF"
+        },
+        {
+          "name": "Seth Curry",
+          "team": "PHI",
+          "playerImage": "https://www.basketball-reference.com/req/202106092/images/players/curryse01.jpg",
+          "position": "SG"
+        },
+        {
+          "name": "Tyrese Maxey",
+          "team": "PHI",
+          "playerImage": "https://www.basketball-reference.com/req/202106092/images/players/maxeyty01.jpg",
+          "position": "SF"
+        }
+      ]
+    },
+    {
+      "teamName": "New York Knicks",
+      "teamImage": "https://d2p3bygnnzw9w3.cloudfront.net/req/202106153/tlogo/bbr/NYK.png",
+      "players": [
+        {
+          "name": "Julius Randle",
+          "team": "NYK",
+          "playerImage": "https://www.basketball-reference.com/req/202106092/images/players/randlju01.jpg",
+          "position": "PF"
+        },
+        {
+          "name": "RJ Barrett",
+          "team": "NYK",
+          "playerImage": "https://www.basketball-reference.com/req/202106092/images/players/barrerj01.jpg",
+          "position": "SF"
+        },
+        {
+          "name": "Derrick Rose",
+          "team": "NYK",
+          "playerImage": "https://www.basketball-reference.com/req/202106092/images/players/rosede01.jpg",
+          "position": "PG"
+        },
+        {
+          "name": "Mitchell Robinson",
+          "team": "NYK",
+          "playerImage": "https://www.basketball-reference.com/req/202106092/images/players/robinmi01.jpg",
+          "position": "C"
+        },
+        {
+          "name": "Immanuel Quickley",
+          "team": "NYK",
+          "playerImage": "https://www.basketball-reference.com/req/202106092/images/players/quickim01.jpg",
+          "position": "SG"
+        }
+      ]
+    },
+    {
+      "teamName": "Brooklyn Nets",
+      "teamImage": "https://d2p3bygnnzw9w3.cloudfront.net/req/202106153/tlogo/bbr/NJN.png",
+      "players": [
+        {
+          "name": "Kevin Durant",
+          "team": "BRK",
+          "playerImage": "https://www.basketball-reference.com/req/202106092/images/players/duranke01.jpg",
+          "position": "PF"
+        },
+        {
+          "name": "Joe Harris",
+          "team": "BRK",
+          "playerImage": "https://www.basketball-reference.com/req/202106092/images/players/harrijo01.jpg",
+          "position": "SF"
+        },
+        {
+          "name": "James Harden",
+          "team": "BRK",
+          "playerImage": "https://www.basketball-reference.com/req/202106092/images/players/hardeja01.jpg",
+          "position": "PG"
+        },
+        {
+          "name": "Blake Griffin",
+          "team": "BRK",
+          "playerImage": "https://www.basketball-reference.com/req/202106092/images/players/griffbl01.jpg",
+          "position": "C"
+        },
+        {
+          "name": "Kyrie Irving",
+          "team": "BRK",
+          "playerImage": "https://www.basketball-reference.com/req/202106092/images/players/irvinky01.jpg",
+          "position": "SG"
+        }
+      ]
+    },
+    {
+      "teamName": "Toronto Raptors",
+      "teamImage": "https://d2p3bygnnzw9w3.cloudfront.net/req/202106153/tlogo/bbr/TOR.png",
+      "players": [
+        {
+          "name": "Pascal Siakam",
+          "team": "TOR",
+          "playerImage": "https://www.basketball-reference.com/req/202106092/images/players/siakapa01.jpg",
+          "position": "PF"
+        },
+        {
+          "name": "OG Anunoby",
+          "team": "TOR",
+          "playerImage": "https://www.basketball-reference.com/req/202106092/images/players/anunoog01.jpg",
+          "position": "SF"
+        },
+        {
+          "name": "Kyle Lowry",
+          "team": "TOR",
+          "playerImage": "https://www.basketball-reference.com/req/202106092/images/players/lowryky01.jpg",
+          "position": "PG"
+        },
+        {
+          "name": "Chris Boucher",
+          "team": "TOR",
+          "playerImage": "https://www.basketball-reference.com/req/202106092/images/players/bouchch01.jpg",
+          "position": "C"
+        },
+        {
+          "name": "Fred VanVleet",
+          "team": "TOR",
+          "playerImage": "https://www.basketball-reference.com/req/202106092/images/players/vanvlfr01.jpg",
+          "position": "SG"
+        }
+      ]
+    },
+    {
+      "teamName": "Boston Celtics",
+      "teamImage": "https://d2p3bygnnzw9w3.cloudfront.net/req/202106153/tlogo/bbr/BOS.png",
+      "players": [
+        {
+          "name": "Jayson Tatum",
+          "team": "BOS",
+          "playerImage": "https://www.basketball-reference.com/req/202106092/images/players/tatumja01.jpg",
+          "position": "PF"
+        },
+        {
+          "name": "Marcus Smart",
+          "team": "BOS",
+          "playerImage": "https://www.basketball-reference.com/req/202106092/images/players/smartma01.jpg",
+          "position": "SG"
+        },
+        {
+          "name": "Kemba Walker",
+          "team": "BOS",
+          "playerImage": "https://www.basketball-reference.com/req/202106092/images/players/walkeke02.jpg",
+          "position": "PG"
+        },
+        {
+          "name": "Tristan Thompson",
+          "team": "BOS",
+          "playerImage": "https://www.basketball-reference.com/req/202106092/images/players/thomptr01.jpg",
+          "position": "C"
+        },
+        {
+          "name": "Evan Fournier",
+          "team": "BOS",
+          "playerImage": "https://www.basketball-reference.com/req/202106092/images/players/fournev01.jpg",
+          "position": "SF"
+        }
+      ]
+    },
+    {
+      "teamName": "Milwaukee Bucks",
+      "teamImage": "https://d2p3bygnnzw9w3.cloudfront.net/req/202106153/tlogo/bbr/MIL-2021.png",
+      "players": [
+        {
+          "name": "Giannis Antetokounmpo",
+          "team": "MIL",
+          "playerImage": "https://www.basketball-reference.com/req/202106092/images/players/antetgi01.jpg",
+          "position": "PF"
+        },
+        {
+          "name": "Khris Middleton",
+          "team": "MIL",
+          "playerImage": "https://www.basketball-reference.com/req/202106092/images/players/middlkh01.jpg",
+          "position": "SG"
+        },
+        {
+          "name": "Jrue Holiday",
+          "team": "MIL",
+          "playerImage": "https://www.basketball-reference.com/req/202106092/images/players/holidjr01.jpg",
+          "position": "PG"
+        },
+        {
+          "name": "Brook Lopez",
+          "team": "MIL",
+          "playerImage": "https://www.basketball-reference.com/req/202106092/images/players/lopezbr01.jpg",
+          "position": "C"
+        },
+        {
+          "name": "P.J. Tucker",
+          "team": "MIL",
+          "playerImage": "https://www.basketball-reference.com/req/202106092/images/players/tuckepj01.jpg",
+          "position": "SF"
+        }
+      ]
+    },
+    {
+      "teamName": "Indiana Pacers",
+      "teamImage": "https://d2p3bygnnzw9w3.cloudfront.net/req/202106153/tlogo/bbr/IND-2021.png",
+      "players": [
+        {
+          "name": "Domantas Sabonis",
+          "team": "IND",
+          "playerImage": "https://www.basketball-reference.com/req/202106092/images/players/sabondo01.jpg",
+          "position": "PF"
+        },
+        {
+          "name": "Caris LeVert",
+          "team": "IND",
+          "playerImage": "https://www.basketball-reference.com/req/202106092/images/players/leverca01.jpg",
+          "position": "SG"
+        },
+        {
+          "name": "Malcolm Brogdon",
+          "team": "IND",
+          "playerImage": "https://www.basketball-reference.com/req/202106092/images/players/brogdma01.jpg",
+          "position": "PG"
+        },
+        {
+          "name": "Myles Turner",
+          "team": "IND",
+          "playerImage": "https://www.basketball-reference.com/req/202106092/images/players/turnemy01.jpg",
+          "position": "C"
+        },
+        {
+          "name": "T.J. Warren",
+          "team": "IND",
+          "playerImage": "https://www.basketball-reference.com/req/202106092/images/players/warretj01.jpg",
+          "position": "SF"
+        }
+      ]
+    },
+    {
+      "teamName": "Chicago Bulls",
+      "teamImage": "https://d2p3bygnnzw9w3.cloudfront.net/req/202106153/tlogo/bbr/CHI-2021.png",
+      "players": [
+        {
+          "name": "Patrick Williams",
+          "team": "CHI",
+          "playerImage": "https://www.basketball-reference.com/req/202106092/images/players/willipa01.jpg",
+          "position": "SF"
+        },
+        {
+          "name": "Zach LaVine",
+          "team": "CHI",
+          "playerImage": "https://www.basketball-reference.com/req/202106092/images/players/lavinza01.jpg",
+          "position": "SG"
+        },
+        {
+          "name": "Coby White",
+          "team": "CHI",
+          "playerImage": "https://www.basketball-reference.com/req/202106092/images/players/whiteco01.jpg",
+          "position": "PG"
+        },
+        {
+          "name": "Nikola Vučević",
+          "team": "CHI",
+          "playerImage": "https://www.basketball-reference.com/req/202106092/images/players/vucevni01.jpg",
+          "position": "C"
+        },
+        {
+          "name": "Lauri Markkanen",
+          "team": "CHI",
+          "playerImage": "https://www.basketball-reference.com/req/202106092/images/players/markkla01.jpg",
+          "position": "PF"
+        }
+      ]
+    },
+    {
+      "teamName": "Cleveland Cavaliers",
+      "teamImage": "https://d2p3bygnnzw9w3.cloudfront.net/req/202106153/tlogo/bbr/CLE-2021.png",
+      "players": [
+        {
+          "name": "Larry Nance Jr.",
+          "team": "CLE",
+          "playerImage": "https://www.basketball-reference.com/req/202106092/images/players/nancela02.jpg",
+          "position": "PF"
+        },
+        {
+          "name": "Darius Garland",
+          "team": "CLE",
+          "playerImage": "https://www.basketball-reference.com/req/202106092/images/players/garlada01.jpg",
+          "position": "SG"
+        },
+        {
+          "name": "Collin Sexton",
+          "team": "CLE",
+          "playerImage": "https://www.basketball-reference.com/req/202106092/images/players/sextoco01.jpg",
+          "position": "PG"
+        },
+        {
+          "name": "Jarrett Allen",
+          "team": "CLE",
+          "playerImage": "https://www.basketball-reference.com/req/202106092/images/players/allenja01.jpg",
+          "position": "C"
+        },
+        {
+          "name": "Isaac Okoro",
+          "team": "CLE",
+          "playerImage": "https://www.basketball-reference.com/req/202106092/images/players/okorois01.jpg",
+          "position": "SF"
+        }
+      ]
+    },
+    {
+      "teamName": "Detroit Pistons",
+      "teamImage": "https://d2p3bygnnzw9w3.cloudfront.net/req/202106153/tlogo/bbr/DET-2021.png",
+      "players": [
+        {
+          "name": "Jerami Grant",
+          "team": "DET",
+          "playerImage": "https://www.basketball-reference.com/req/202106092/images/players/grantje01.jpg",
+          "position": "PF"
+        },
+        {
+          "name": "Delon Wright",
+          "team": "DET",
+          "playerImage": "https://www.basketball-reference.com/req/202106092/images/players/wrighde01.jpg",
+          "position": "SG"
+        },
+        {
+          "name": "Killian Hayes",
+          "team": "DET",
+          "playerImage": "https://www.basketball-reference.com/req/202106092/images/players/hayeski01.jpg",
+          "position": "PG"
+        },
+        {
+          "name": "Mason Plumlee",
+          "team": "DET",
+          "playerImage": "https://www.basketball-reference.com/req/202106092/images/players/plumlma01.jpg",
+          "position": "C"
+        },
+        {
+          "name": "Saddiq Bey",
+          "team": "DET",
+          "playerImage": "https://www.basketball-reference.com/req/202106092/images/players/beysa01.jpg",
+          "position": "SF"
+        }
+      ]
+    },
+    {
+      "teamName": "Atlanta Hawks",
+      "teamImage": "https://d2p3bygnnzw9w3.cloudfront.net/req/202106153/tlogo/bbr/ATL-2021.png",
+      "players": [
+        {
+          "name": "Trae Young",
+          "team": "ATL",
+          "playerImage": "https://www.basketball-reference.com/req/202106092/images/players/youngtr01.jpg",
+          "position": "PG"
+        },
+        {
+          "name": "Kevin Huerter",
+          "team": "ATL",
+          "playerImage": "https://www.basketball-reference.com/req/202106092/images/players/huertke01.jpg",
+          "position": "SG"
+        },
+        {
+          "name": "De'Andre Hunter",
+          "team": "ATL",
+          "playerImage": "https://www.basketball-reference.com/req/202106092/images/players/huntede01.jpg",
+          "position": "SF"
+        },
+        {
+          "name": "John Collins",
+          "team": "ATL",
+          "playerImage": "https://www.basketball-reference.com/req/202106092/images/players/collijo01.jpg",
+          "position": "PF"
+        },
+        {
+          "name": "Clint Capela",
+          "team": "ATL",
+          "playerImage": "https://www.basketball-reference.com/req/202106092/images/players/capelca01.jpg",
+          "position": "C"
+        }
+      ]
+    },
+    {
+      "teamName": "Miami Heat",
+      "teamImage": "https://d2p3bygnnzw9w3.cloudfront.net/req/202106153/tlogo/bbr/MIA-2021.png",
+      "players": [
+        {
+          "name": "Goran Dragić",
+          "team": "MIA",
+          "playerImage": "https://www.basketball-reference.com/req/202106092/images/players/dragigo01.jpg",
+          "position": "PG"
+        },
+        {
+          "name": "Victor Oladipo",
+          "team": "MIA",
+          "playerImage": "https://www.basketball-reference.com/req/202106092/images/players/oladivi01.jpg",
+          "position": "SG"
+        },
+        {
+          "name": "Jimmy Butler",
+          "team": "MIA",
+          "playerImage": "https://www.basketball-reference.com/req/202106092/images/players/butleji01.jpg",
+          "position": "SF"
+        },
+        {
+          "name": "Duncan Robinson",
+          "team": "MIA",
+          "playerImage": "https://www.basketball-reference.com/req/202106092/images/players/robindu01.jpg",
+          "position": "PF"
+        },
+        {
+          "name": "Bam Adebayo",
+          "team": "MIA",
+          "playerImage": "https://www.basketball-reference.com/req/202106092/images/players/adebaba01.jpg",
+          "position": "C"
+        }
+      ]
+    },
+    {
+      "teamName": "Washington Wizards",
+      "teamImage": "https://d2p3bygnnzw9w3.cloudfront.net/req/202106153/tlogo/bbr/WAS-2021.png",
+      "players": [
+        {
+          "name": "Russell Westbrook",
+          "team": "WAS",
+          "playerImage": "https://www.basketball-reference.com/req/202106092/images/players/westbru01.jpg",
+          "position": "PG"
+        },
+        {
+          "name": "Bradley Beal",
+          "team": "WAS",
+          "playerImage": "https://www.basketball-reference.com/req/202106092/images/players/bealbr01.jpg",
+          "position": "SG"
+        },
+        {
+          "name": "Rui Hachimura",
+          "team": "WAS",
+          "playerImage": "https://www.basketball-reference.com/req/202106092/images/players/hachiru01.jpg",
+          "position": "SF"
+        },
+        {
+          "name": "Dāvis Bertāns",
+          "team": "WAS",
+          "playerImage": "https://www.basketball-reference.com/req/202106092/images/players/bertada01.jpg",
+          "position": "PF"
+        },
+        {
+          "name": "Thomas Bryant",
+          "team": "WAS",
+          "playerImage": "https://www.basketball-reference.com/req/202106092/images/players/bryanth01.jpg",
+          "position": "C"
+        }
+      ]
+    },
+    {
+      "teamName": "Charlotte Hornets",
+      "teamImage": "https://d2p3bygnnzw9w3.cloudfront.net/req/202106153/tlogo/bbr/CHO-2021.png",
+      "players": [
+        {
+          "name": "LaMelo Ball",
+          "team": "CHA",
+          "playerImage": "https://www.basketball-reference.com/req/202106092/images/players/ballla01.jpg",
+          "position": "PG"
+        },
+        {
+          "name": "Terry Rozier",
+          "team": "CHA",
+          "playerImage": "https://www.basketball-reference.com/req/202106092/images/players/roziete01.jpg",
+          "position": "SG"
+        },
+        {
+          "name": "Gordon Hayward",
+          "team": "CHA",
+          "playerImage": "https://www.basketball-reference.com/req/202106092/images/players/haywago01.jpg",
+          "position": "SF"
+        },
+        {
+          "name": "P.J. Washington",
+          "team": "CHA",
+          "playerImage": "https://www.basketball-reference.com/req/202106092/images/players/washipj01.jpg",
+          "position": "C"
+        },
+        {
+          "name": "Miles Bridges",
+          "team": "CHA",
+          "playerImage": "https://www.basketball-reference.com/req/202106092/images/players/bridgmi02.jpg",
+          "position": "PF"
+        }
+      ]
+    },
+    {
+      "teamName": "Orlando Magic",
+      "teamImage": "https://d2p3bygnnzw9w3.cloudfront.net/req/202106153/tlogo/bbr/ORL-2021.png",
+      "players": [
+        {
+          "name": "Markelle Fultz",
+          "team": "ORL",
+          "playerImage": "https://www.basketball-reference.com/req/202106092/images/players/fultzma01.jpg",
+          "position": "PG"
+        },
+        {
+          "name": "R.J. Hampton",
+          "team": "ORL",
+          "playerImage": "https://www.basketball-reference.com/req/202106092/images/players/hamptrj01.jpg",
+          "position": "SG"
+        },
+        {
+          "name": "Dwayne Bacon",
+          "team": "ORL",
+          "playerImage": "https://www.basketball-reference.com/req/202106092/images/players/bacondw01.jpg",
+          "position": "SF"
+        },
+        {
+          "name": "Jonathan Isaac",
+          "team": "ORL",
+          "playerImage": "https://www.basketball-reference.com/req/202106092/images/players/isaacjo01.jpg",
+          "position": "PF"
+        },
+        {
+          "name": "Wendell Carter Jr.",
+          "team": "ORL",
+          "playerImage": "https://www.basketball-reference.com/req/202106092/images/players/cartewe01.jpg",
+          "position": "C"
+        }
+      ]
+    }
+  ],
+  "westernConference": [
+    {
+      "teamName": "Los Angeles Lakers",
+      "teamImage": "https://d2p3bygnnzw9w3.cloudfront.net/req/202106153/tlogo/bbr/LAL-2021.png",
+      "players": [
+        {
+          "name": "LeBron James",
+          "team": "LAL",
+          "playerImage": "https://www.basketball-reference.com/req/202106092/images/players/jamesle01.jpg",
+          "position": "PG"
+        },
+        {
+          "name": "Kyle Kuzma",
+          "team": "LAL",
+          "playerImage": "https://www.basketball-reference.com/req/202106092/images/players/kuzmaky01.jpg",
+          "position": "SF"
+        },
+        {
+          "name": "Anthony Davis",
+          "team": "LAL",
+          "playerImage": "https://www.basketball-reference.com/req/202106092/images/players/davisan02.jpg",
+          "position": "PF"
+        },
+        {
+          "name": "Andre Drummond",
+          "team": "LAL",
+          "playerImage": "https://www.basketball-reference.com/req/202106092/images/players/drumman01.jpg",
+          "position": "C"
+        },
+        {
+          "name": "Dennis Schröder",
+          "team": "LAL",
+          "playerImage": "https://www.basketball-reference.com/req/202106092/images/players/schrode01.jpg",
+          "position": "SG"
+        }
+      ]
+    },
+    {
+      "teamName": "Phoenix Suns",
+      "teamImage": "https://d2p3bygnnzw9w3.cloudfront.net/req/202106153/tlogo/bbr/PHO-2021.png",
+      "players": [
+        {
+          "name": "Jae Crowder",
+          "team": "PHX",
+          "playerImage": "https://www.basketball-reference.com/req/202106092/images/players/crowdja01.jpg",
+          "position": "PF"
+        },
+        {
+          "name": "Mikal Bridges",
+          "team": "PHX",
+          "playerImage": "https://www.basketball-reference.com/req/202106092/images/players/bridgmi01.jpg",
+          "position": "SF"
+        },
+        {
+          "name": "Chris Paul",
+          "team": "PHX",
+          "playerImage": "https://www.basketball-reference.com/req/202106092/images/players/paulch01.jpg",
+          "position": "PG"
+        },
+        {
+          "name": "Deandre Ayton",
+          "team": "PHX",
+          "playerImage": "https://www.basketball-reference.com/req/202106092/images/players/aytonde01.jpg",
+          "position": "C"
+        },
+        {
+          "name": "Devin Booker",
+          "team": "PHX",
+          "playerImage": "https://www.basketball-reference.com/req/202106092/images/players/bookede01.jpg",
+          "position": "SG"
+        }
+      ]
+    },
+    {
+      "teamName": "Golden State Warriors",
+      "teamImage": "https://d2p3bygnnzw9w3.cloudfront.net/req/202106153/tlogo/bbr/GSW-2021.png",
+      "players": [
+        {
+          "name": "Draymond Green",
+          "team": "GSW",
+          "playerImage": "https://www.basketball-reference.com/req/202106092/images/players/greendr01.jpg",
+          "position": "PF"
+        },
+        {
+          "name": "Andrew Wiggins",
+          "team": "GSW",
+          "playerImage": "https://www.basketball-reference.com/req/202106092/images/players/wiggian01.jpg",
+          "position": "SF"
+        },
+        {
+          "name": "Stephen Curry",
+          "team": "GSW",
+          "playerImage": "https://www.basketball-reference.com/req/202106092/images/players/curryst01.jpg",
+          "position": "PG"
+        },
+        {
+          "name": "James Wiseman",
+          "team": "GSW",
+          "playerImage": "https://www.basketball-reference.com/req/202106092/images/players/wisemja01.jpg",
+          "position": "C"
+        },
+        {
+          "name": "Klay Thompson",
+          "team": "GSW",
+          "playerImage": "https://www.basketball-reference.com/req/202106092/images/players/thompkl01.jpg",
+          "position": "SG"
+        }
+      ]
+    },
+    {
+      "teamName": "Los Angeles Clippers",
+      "teamImage": "https://d2p3bygnnzw9w3.cloudfront.net/req/202106153/tlogo/bbr/LAC-2021.png",
+      "players": [
+        {
+          "name": "Kawhi Leonard",
+          "team": "LAC",
+          "playerImage": "https://www.basketball-reference.com/req/202106092/images/players/leonaka01.jpg",
+          "position": "PF"
+        },
+        {
+          "name": "Nicolas Batum",
+          "team": "LAC",
+          "playerImage": "https://www.basketball-reference.com/req/202106092/images/players/batumni01.jpg",
+          "position": "SF"
+        },
+        {
+          "name": "Reggie Jackson",
+          "team": "LAC",
+          "playerImage": "https://www.basketball-reference.com/req/202106092/images/players/jacksre01.jpg",
+          "position": "PG"
+        },
+        {
+          "name": "Ivica Zubac",
+          "team": "LAC",
+          "playerImage": "https://www.basketball-reference.com/req/202106092/images/players/zubaciv01.jpg",
+          "position": "C"
+        },
+        {
+          "name": "Paul George",
+          "team": "LAC",
+          "playerImage": "https://www.basketball-reference.com/req/202106092/images/players/georgpa01.jpg",
+          "position": "SG"
+        }
+      ]
+    },
+    {
+      "teamName": "Sacramento Kings",
+      "teamImage": "https://d2p3bygnnzw9w3.cloudfront.net/req/202106153/tlogo/bbr/SAC-2021.png",
+      "players": [
+        {
+          "name": "Harrison Barnes",
+          "team": "SAC",
+          "playerImage": "https://www.basketball-reference.com/req/202106092/images/players/barneha02.jpg",
+          "position": "PF"
+        },
+        {
+          "name": "Tyrese Haliburton",
+          "team": "SAC",
+          "playerImage": "https://www.basketball-reference.com/req/202106092/images/players/halibty01.jpg",
+          "position": "SF"
+        },
+        {
+          "name": "De'Aaron Fox",
+          "team": "SAC",
+          "playerImage": "https://www.basketball-reference.com/req/202106092/images/players/foxde01.jpg",
+          "position": "PG"
+        },
+        {
+          "name": "Richaun Holmes",
+          "team": "SAC",
+          "playerImage": "https://www.basketball-reference.com/req/202106092/images/players/holmeri01.jpg",
+          "position": "C"
+        },
+        {
+          "name": "Buddy Hield",
+          "team": "SAC",
+          "playerImage": "https://www.basketball-reference.com/req/202106092/images/players/hieldbu01.jpg",
+          "position": "SG"
+        }
+      ]
+    },
+    {
+      "teamName": "Utah Jazz ",
+      "teamImage": "https://d2p3bygnnzw9w3.cloudfront.net/req/202106153/tlogo/bbr/UTA-2021.png",
+      "players": [
+        {
+          "name": "Mike Conley",
+          "team": "UTA",
+          "playerImage": "https://www.basketball-reference.com/req/202106092/images/players/conlemi01.jpg",
+          "position": "PG"
+        },
+        {
+          "name": "Donovan Mitchell",
+          "team": "UTA",
+          "playerImage": "https://www.basketball-reference.com/req/202106092/images/players/mitchdo01.jpg",
+          "position": "SG"
+        },
+        {
+          "name": "Bojan Bogdanović",
+          "team": "UTA",
+          "playerImage": "https://www.basketball-reference.com/req/202106092/images/players/bogdabo02.jpg",
+          "position": "SF"
+        },
+        {
+          "name": "Joe Ingles",
+          "team": "UTA",
+          "playerImage": "https://www.basketball-reference.com/req/202106092/images/players/inglejo01.jpg",
+          "position": "PF"
+        },
+        {
+          "name": "Rudy Gobert",
+          "team": "UTA",
+          "playerImage": "https://www.basketball-reference.com/req/202106092/images/players/goberru01.jpg",
+          "position": "C"
+        }
+      ]
+    },
+    {
+      "teamName": "Denver Nuggets",
+      "teamImage": "https://d2p3bygnnzw9w3.cloudfront.net/req/202106153/tlogo/bbr/DEN-2021.png",
+      "players": [
+        {
+          "name": "Jamal Murray",
+          "team": "DEN",
+          "playerImage": "https://www.basketball-reference.com/req/202106092/images/players/murraja01.jpg",
+          "position": "PG"
+        },
+        {
+          "name": "Will Barton",
+          "team": "DEN",
+          "playerImage": "https://www.basketball-reference.com/req/202106092/images/players/bartowi01.jpg",
+          "position": "SG"
+        },
+        {
+          "name": "Michael Porter Jr.",
+          "team": "DEN",
+          "playerImage": "https://www.basketball-reference.com/req/202106092/images/players/portemi01.jpg",
+          "position": "SF"
+        },
+        {
+          "name": "Aaron Gordon",
+          "team": "DEN",
+          "playerImage": "https://www.basketball-reference.com/req/202106092/images/players/gordoaa01.jpg",
+          "position": "PF"
+        },
+        {
+          "name": "Nikola Jokić",
+          "team": "DEN",
+          "playerImage": "https://www.basketball-reference.com/req/202106092/images/players/jokicni01.jpg",
+          "position": "C"
+        }
+      ]
+    },
+    {
+      "teamName": "Portland Trail Blazers",
+      "teamImage": "https://d2p3bygnnzw9w3.cloudfront.net/req/202106153/tlogo/bbr/POR-2021.png",
+      "players": [
+        {
+          "name": "Damian Lillard",
+          "team": "POR",
+          "playerImage": "https://www.basketball-reference.com/req/202106092/images/players/lillada01.jpg",
+          "position": "PG"
+        },
+        {
+          "name": "CJ McCollum",
+          "team": "POR",
+          "playerImage": "https://www.basketball-reference.com/req/202106092/images/players/mccolcj01.jpg",
+          "position": "SG"
+        },
+        {
+          "name": "Robert Covington",
+          "team": "POR",
+          "playerImage": "https://www.basketball-reference.com/req/202106092/images/players/covinro01.jpg",
+          "position": "SF"
+        },
+        {
+          "name": "Carmelo Anthony",
+          "team": "POR",
+          "playerImage": "https://www.basketball-reference.com/req/202106092/images/players/anthoca01.jpg",
+          "position": "PF"
+        },
+        {
+          "name": "Jusuf Nurkić",
+          "team": "POR",
+          "playerImage": "https://www.basketball-reference.com/req/202106092/images/players/nurkiju01.jpg",
+          "position": "C"
+        }
+      ]
+    },
+    {
+      "teamName": "Minnesota Timberwolves",
+      "teamImage": "https://d2p3bygnnzw9w3.cloudfront.net/req/202106153/tlogo/bbr/MIN-2021.png",
+      "players": [
+        {
+          "name": "D'Angelo Russell",
+          "team": "MIN",
+          "playerImage": "https://www.basketball-reference.com/req/202106092/images/players/russeda01.jpg",
+          "position": "PG"
+        },
+        {
+          "name": "Malik Beasley",
+          "team": "MIN",
+          "playerImage": "https://www.basketball-reference.com/req/202106092/images/players/beaslma01.jpg",
+          "position": "SF"
+        },
+        {
+          "name": "Anthony Edwards",
+          "team": "MIN",
+          "playerImage": "https://www.basketball-reference.com/req/202106092/images/players/edwaran01.jpg",
+          "position": "SG"
+        },
+        {
+          "name": "Jaden McDaniels",
+          "team": "MIN",
+          "playerImage": "https://www.basketball-reference.com/req/202106092/images/players/mcdanja02.jpg",
+          "position": "PF"
+        },
+        {
+          "name": "Karl-Anthony Towns",
+          "team": "MIN",
+          "playerImage": "https://www.basketball-reference.com/req/202106092/images/players/townska01.jpg",
+          "position": "C"
+        }
+      ]
+    },
+    {
+      "teamName": "Oklahoma City Thunder",
+      "teamImage": "https://d2p3bygnnzw9w3.cloudfront.net/req/202106153/tlogo/bbr/OKC-2021.png",
+      "players": [
+        {
+          "name": "Shai Gilgeous-Alexander",
+          "team": "OKC",
+          "playerImage": "https://www.basketball-reference.com/req/202106092/images/players/gilgesh01.jpg",
+          "position": "PG"
+        },
+        {
+          "name": "Luguentz Dort",
+          "team": "OKC",
+          "playerImage": "https://www.basketball-reference.com/req/202106092/images/players/dortlu01.jpg",
+          "position": "SG"
+        },
+        {
+          "name": "Kenrich Williams",
+          "team": "OKC",
+          "playerImage": "https://www.basketball-reference.com/req/202106092/images/players/willike04.jpg",
+          "position": "SF"
+        },
+        {
+          "name": "Darius Bazley",
+          "team": "OKC",
+          "playerImage": "https://www.basketball-reference.com/req/202106092/images/players/bazleda01.jpg",
+          "position": "PF"
+        },
+        {
+          "name": "Al Horford",
+          "team": "OKC",
+          "playerImage": "https://www.basketball-reference.com/req/202106092/images/players/horfoal01.jpg",
+          "position": "C"
+        }
+      ]
+    },
+    {
+      "teamName": "Dallas Mavericks",
+      "teamImage": "https://d2p3bygnnzw9w3.cloudfront.net/req/202106153/tlogo/bbr/DAL-2021.png",
+      "players": [
+        {
+          "name": "Luka Dončić",
+          "team": "DAL",
+          "playerImage": "https://www.basketball-reference.com/req/202106092/images/players/doncilu01.jpg",
+          "position": "PG"
+        },
+        {
+          "name": "Tim Hardaway Jr.",
+          "team": "DAL",
+          "playerImage": "https://www.basketball-reference.com/req/202106092/images/players/hardati02.jpg",
+          "position": "SG"
+        },
+        {
+          "name": "Dorian Finney-Smith",
+          "team": "DAL",
+          "playerImage": "https://www.basketball-reference.com/req/202106092/images/players/finnedo01.jpg",
+          "position": "SF"
+        },
+        {
+          "name": "Kristaps Porziņģis",
+          "team": "DAL",
+          "playerImage": "https://www.basketball-reference.com/req/202106092/images/players/porzikr01.jpg",
+          "position": "PF"
+        },
+        {
+          "name": "Boban Marjanović",
+          "team": "DAL",
+          "playerImage": "https://www.basketball-reference.com/req/202106092/images/players/marjabo01.jpg",
+          "position": "C"
+        }
+      ]
+    },
+    {
+      "teamName": "Memphis Grizzlies",
+      "teamImage": "https://d2p3bygnnzw9w3.cloudfront.net/req/202106153/tlogo/bbr/MEM-2021.png",
+      "players": [
+        {
+          "name": "Ja Morant",
+          "team": "MEM",
+          "playerImage": "https://www.basketball-reference.com/req/202106092/images/players/moranja01.jpg",
+          "position": "PG"
+        },
+        {
+          "name": "Dillon Brooks",
+          "team": "MEM",
+          "playerImage": "https://www.basketball-reference.com/req/202106092/images/players/brookdi01.jpg",
+          "position": "SG"
+        },
+        {
+          "name": "Kyle Anderson",
+          "team": "MEM",
+          "playerImage": "https://www.basketball-reference.com/req/202106092/images/players/anderky01.jpg",
+          "position": "SF"
+        },
+        {
+          "name": "Jaren Jackson Jr.",
+          "team": "MEM",
+          "playerImage": "https://www.basketball-reference.com/req/202106092/images/players/jacksja02.jpg",
+          "position": "PF"
+        },
+        {
+          "name": "Jonas Valančiūnas",
+          "team": "MEM",
+          "playerImage": "https://www.basketball-reference.com/req/202106092/images/players/valanjo01.jpg",
+          "position": "C"
+        }
+      ]
+    },
+    {
+      "teamName": "San Antonio Spurs",
+      "teamImage": "https://d2p3bygnnzw9w3.cloudfront.net/req/202106153/tlogo/bbr/SAS-2021.png",
+      "players": [
+        {
+          "name": "Dejounte Murray",
+          "team": "SAS",
+          "playerImage": "https://www.basketball-reference.com/req/202106092/images/players/murrade01.jpg",
+          "position": "PG"
+        },
+        {
+          "name": "Derrick White",
+          "team": "SAS",
+          "playerImage": "https://www.basketball-reference.com/req/202106092/images/players/whitede01.jpg",
+          "position": "SG"
+        },
+        {
+          "name": "DeMar DeRozan",
+          "team": "SAS",
+          "playerImage": "https://www.basketball-reference.com/req/202106092/images/players/derozde01.jpg",
+          "position": "SF"
+        },
+        {
+          "name": "Keldon Johnson",
+          "team": "SAS",
+          "playerImage": "https://www.basketball-reference.com/req/202106092/images/players/johnske04.jpg",
+          "position": "PF"
+        },
+        {
+          "name": "Jakob Poeltl",
+          "team": "SAS",
+          "playerImage": "https://www.basketball-reference.com/req/202106092/images/players/poeltja01.jpg",
+          "position": "C"
+        }
+      ]
+    },
+    {
+      "teamName": "New Orleans Pelicans",
+      "teamImage": "https://d2p3bygnnzw9w3.cloudfront.net/req/202106153/tlogo/bbr/NOP-2021.png",
+      "players": [
+        {
+          "name": "Lonzo Ball",
+          "team": "NOP",
+          "playerImage": "https://www.basketball-reference.com/req/202106092/images/players/balllo01.jpg",
+          "position": "PG"
+        },
+        {
+          "name": "Eric Bledsoe",
+          "team": "NOP",
+          "playerImage": "https://www.basketball-reference.com/req/202106092/images/players/bledser01.jpg",
+          "position": "SG"
+        },
+        {
+          "name": "Brandon Ingram",
+          "team": "NOP",
+          "playerImage": "https://www.basketball-reference.com/req/202106092/images/players/ingrabr01.jpg",
+          "position": "SF"
+        },
+        {
+          "name": "Zion Williamson",
+          "team": "NOP",
+          "playerImage": "https://www.basketball-reference.com/req/202106092/images/players/willizi01.jpg",
+          "position": "PF"
+        },
+        {
+          "name": "Steven Adams",
+          "team": "NOP",
+          "playerImage": "https://www.basketball-reference.com/req/202106092/images/players/adamsst01.jpg",
+          "position": "C"
+        }
+      ]
+    },
+    {
+      "teamName": "Houston Rockets",
+      "teamImage": "https://d2p3bygnnzw9w3.cloudfront.net/req/202106153/tlogo/bbr/HOU-2021.png",
+      "players": [
+        {
+          "name": "John Wall",
+          "team": "HOU",
+          "playerImage": "https://www.basketball-reference.com/req/202106092/images/players/walljo01.jpg",
+          "position": "PG"
+        },
+        {
+          "name": "Kevin Porter Jr.",
+          "team": "HOU",
+          "playerImage": "https://www.basketball-reference.com/req/202106092/images/players/porteke02.jpg",
+          "position": "SG"
+        },
+        {
+          "name": "Danuel House",
+          "team": "HOU",
+          "playerImage": "https://www.basketball-reference.com/req/202106092/images/players/houseda01.jpg",
+          "position": "SF"
+        },
+        {
+          "name": "Kelly Olynyk",
+          "team": "HOU",
+          "playerImage": "https://www.basketball-reference.com/req/202106092/images/players/olynyke01.jpg",
+          "position": "PF"
+        },
+        {
+          "name": "Christian Wood",
+          "team": "HOU",
+          "playerImage": "https://www.basketball-reference.com/req/202106092/images/players/woodch01.jpg",
+          "position": "C"
+        }
+      ]
+    }
+  ],
+  "myTeam": []
+}

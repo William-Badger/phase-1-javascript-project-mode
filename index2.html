@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>dropdown menu using button</title>
+    <script defer src="./index2.js"></script>
+        <link rel="stylesheet" href="./style2.css"/>
+</head>
+<style>
+/* set the position of dropdown */
+
+</style>
+
+<script>
+      //show and hide dropdown list item on button click
+      function show_hide() {
+         var click = document.getElementById("list-items");
+         if(click.style.display ==="none") {
+            click.style.display ="block";
+         } else {
+            click.style.display ="none";
+         } 
+      }
+      function show_hide2() {
+         var click = document.getElementById("list-items2");
+         if(click.style.display ==="none") {
+            click.style.display ="block";
+         } else {
+            click.style.display ="none";
+         } 
+      }
+   </script>
+
+<body>
+    <header>
+        <h1 id="title">NBA FANTASY MOCK DRAFT</h1>
+        <nav>
+<span class="dropdown">
+  <button onclick="show_hide()" class="button">Eastern Conference</button>
+   <center>
+      <!-- dropdown list items will show when we click the drop button --> 
+      <div id="list-items">
+         
+      </div>
+   </center>
+</span>
+
+   <span class="dropdown">
+    <button onclick="show_hide2()" class="button">Western Conference</button>
+     <center>
+        <!-- dropdown list items will show when we click the drop button --> 
+        <div id="list-items2">
+           
+        </div>
+     </center>
+    </span>
+        <button id="my-team">My Team</button>
+    </nav>
+    </header>
+<div class="player-list">
+
+</div>
+   
+</body>
+</html>

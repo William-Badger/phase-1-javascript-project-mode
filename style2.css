@@ -1,0 +1,113 @@
+#title {
+    text-align: center;
+    background-color: #0253A5;
+    color: white;
+    margin: 0;
+    padding: 10px;
+    border-bottom: rgb(187, 1, 1) solid 10px;
+    
+    
+}
+
+body {
+    margin: 0px;
+    padding:0px;
+    border: rgb(187, 1, 1)solid 10px;
+    min-height: 895px;
+}
+
+.dropdown {   
+    padding-left: 10px;
+    padding-top: 10px;
+    display:inline-block;
+    width: 185px;  
+}
+
+#my-team {
+    width:185px;
+    height:55px;
+    float:right;
+    margin-right:10px;
+    margin-top: 10px;
+    font-size:15px;
+    cursor:pointer;
+}
+
+/* set the size and position of button on web */
+.button {
+    padding: 10px 30px;
+    font-size: 15px;
+    cursor:pointer;
+}
+/* provide css to background of list items */ 
+#list-items { /*east dropdown */
+   display: none;
+   position:fixed;
+   background-color: white;
+   width: 185px;
+   
+   
+}
+/* provide css to list items */ 
+#list-items a {/* east dropdown names*/
+    display: block;
+    font-size: 18px;
+    background-color: #0253A5;
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+    
+}
+#list-items2 {/*west dropdown */
+    display: none;
+    position:fixed;
+    background-color: white;
+    width: 185px;
+    
+ }
+ /* provide css to list items */ 
+ #list-items2 a {/*west dropdown names */
+     display: block;
+     font-size: 18px;
+     background-color: #0253A5;
+     color: white;
+     text-decoration: none;
+     padding: 10px;
+     
+ }
+
+ .player-list {/* */
+    text-align: center;
+    padding-top: 50px;
+     margin-left: auto;
+     margin-right: auto;
+    
+ }
+
+ .player-card {
+     text-align:center;
+     display:inline-block;
+     border: #0253A5 solid 2px;
+     padding: 20px;
+     margin:10px;
+     width: 300px;
+     
+ }
+
+ .player-list img {
+     margin-bottom:10px;
+ }
+ 
+ .draft-button {
+     background-color: rgb(187, 1, 1);
+     color:white;
+     width: 100px;
+     height: 35px;
+     font-size:20px;
+     cursor:pointer;
+ }
+
+ .team-logo {
+     float: left;
+     width: 100px;
+ }
