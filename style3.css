@@ -4,7 +4,7 @@
     color: white;
     margin: 0;
     padding: 10px;
-    border-bottom: rgb(187, 1, 1) solid 10px;
+    border: rgb(187, 1, 1) solid 10px;
     
     
 }
@@ -12,7 +12,7 @@
 body {
     margin: 0px;
     padding:0px;
-    border: rgb(187, 1, 1)solid 10px;
+    
     min-height: 895px;
 }
 
@@ -20,7 +20,8 @@ body {
     padding-left: 10px;
     padding-top: 10px;
     display:inline-block;
-    width: 185px;  
+    width: 185px;
+    
 }
 
 #my-team {
@@ -38,6 +39,8 @@ body {
     padding: 10px 30px;
     font-size: 15px;
     cursor:pointer;
+    width:185px;
+    height: 55px;
 }
 /* provide css to background of list items */ 
 #list-items { /*east dropdown */
@@ -45,6 +48,8 @@ body {
    position:fixed;
    background-color: white;
    width: 185px;
+   position: absolute;
+   overflow: auto;
    
    
 }

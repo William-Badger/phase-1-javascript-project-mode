@@ -1,7 +1,7 @@
 {
-  "easternConference": [
+  "teams": [
     {
-      "teamName": "Philadelphia Sixers",
+      "id": 23,
       "teamImage": "https://d2p3bygnnzw9w3.cloudfront.net/req/202106153/tlogo/bbr/PHI.png",
       "players": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "teamName": "New York Knicks",
+      "id": 20,
       "teamImage": "https://d2p3bygnnzw9w3.cloudfront.net/req/202106153/tlogo/bbr/NYK.png",
       "players": [
         {
@@ -73,7 +73,7 @@
       ]
     },
     {
-      "teamName": "Brooklyn Nets",
+      "id": 3,
       "teamImage": "https://d2p3bygnnzw9w3.cloudfront.net/req/202106153/tlogo/bbr/NJN.png",
       "players": [
         {
@@ -109,7 +109,7 @@
       ]
     },
     {
-      "teamName": "Toronto Raptors",
+      "id": 28,
       "teamImage": "https://d2p3bygnnzw9w3.cloudfront.net/req/202106153/tlogo/bbr/TOR.png",
       "players": [
         {
@@ -145,7 +145,7 @@
       ]
     },
     {
-      "teamName": "Boston Celtics",
+      "id": 2,
       "teamImage": "https://d2p3bygnnzw9w3.cloudfront.net/req/202106153/tlogo/bbr/BOS.png",
       "players": [
         {
@@ -181,7 +181,7 @@
       ]
     },
     {
-      "teamName": "Milwaukee Bucks",
+      "id": 17,
       "teamImage": "https://d2p3bygnnzw9w3.cloudfront.net/req/202106153/tlogo/bbr/MIL-2021.png",
       "players": [
         {
@@ -217,7 +217,7 @@
       ]
     },
     {
-      "teamName": "Indiana Pacers",
+      "id": 12,
       "teamImage": "https://d2p3bygnnzw9w3.cloudfront.net/req/202106153/tlogo/bbr/IND-2021.png",
       "players": [
         {
@@ -253,7 +253,7 @@
       ]
     },
     {
-      "teamName": "Chicago Bulls",
+      "id": 5,
       "teamImage": "https://d2p3bygnnzw9w3.cloudfront.net/req/202106153/tlogo/bbr/CHI-2021.png",
       "players": [
         {
@@ -289,7 +289,7 @@
       ]
     },
     {
-      "teamName": "Cleveland Cavaliers",
+      "id": 6,
       "teamImage": "https://d2p3bygnnzw9w3.cloudfront.net/req/202106153/tlogo/bbr/CLE-2021.png",
       "players": [
         {
@@ -325,7 +325,7 @@
       ]
     },
     {
-      "teamName": "Detroit Pistons",
+      "id": 9,
       "teamImage": "https://d2p3bygnnzw9w3.cloudfront.net/req/202106153/tlogo/bbr/DET-2021.png",
       "players": [
         {
@@ -361,7 +361,7 @@
       ]
     },
     {
-      "teamName": "Atlanta Hawks",
+      "id": 1,
       "teamImage": "https://d2p3bygnnzw9w3.cloudfront.net/req/202106153/tlogo/bbr/ATL-2021.png",
       "players": [
         {
@@ -397,7 +397,7 @@
       ]
     },
     {
-      "teamName": "Miami Heat",
+      "id": 16,
       "teamImage": "https://d2p3bygnnzw9w3.cloudfront.net/req/202106153/tlogo/bbr/MIA-2021.png",
       "players": [
         {
@@ -433,7 +433,7 @@
       ]
     },
     {
-      "teamName": "Washington Wizards",
+      "id": 30,
       "teamImage": "https://d2p3bygnnzw9w3.cloudfront.net/req/202106153/tlogo/bbr/WAS-2021.png",
       "players": [
         {
@@ -469,7 +469,7 @@
       ]
     },
     {
-      "teamName": "Charlotte Hornets",
+      "id": 4,
       "teamImage": "https://d2p3bygnnzw9w3.cloudfront.net/req/202106153/tlogo/bbr/CHO-2021.png",
       "players": [
         {
@@ -505,7 +505,7 @@
       ]
     },
     {
-      "teamName": "Orlando Magic",
+      "id": 22,
       "teamImage": "https://d2p3bygnnzw9w3.cloudfront.net/req/202106153/tlogo/bbr/ORL-2021.png",
       "players": [
         {
@@ -539,11 +539,9 @@
           "position": "C"
         }
       ]
-    }
-  ],
-  "westernConference": [
+    },
     {
-      "teamName": "Los Angeles Lakers",
+      "id": 14,
       "teamImage": "https://d2p3bygnnzw9w3.cloudfront.net/req/202106153/tlogo/bbr/LAL-2021.png",
       "players": [
         {
@@ -579,7 +577,7 @@
       ]
     },
     {
-      "teamName": "Phoenix Suns",
+      "id": 24,
       "teamImage": "https://d2p3bygnnzw9w3.cloudfront.net/req/202106153/tlogo/bbr/PHO-2021.png",
       "players": [
         {
@@ -615,7 +613,7 @@
       ]
     },
     {
-      "teamName": "Golden State Warriors",
+      "id": 10,
       "teamImage": "https://d2p3bygnnzw9w3.cloudfront.net/req/202106153/tlogo/bbr/GSW-2021.png",
       "players": [
         {
@@ -651,7 +649,7 @@
       ]
     },
     {
-      "teamName": "Los Angeles Clippers",
+      "id": 13,
       "teamImage": "https://d2p3bygnnzw9w3.cloudfront.net/req/202106153/tlogo/bbr/LAC-2021.png",
       "players": [
         {
@@ -687,7 +685,7 @@
       ]
     },
     {
-      "teamName": "Sacramento Kings",
+      "id": 26,
       "teamImage": "https://d2p3bygnnzw9w3.cloudfront.net/req/202106153/tlogo/bbr/SAC-2021.png",
       "players": [
         {
@@ -723,7 +721,7 @@
       ]
     },
     {
-      "teamName": "Utah Jazz ",
+      "id": 29,
       "teamImage": "https://d2p3bygnnzw9w3.cloudfront.net/req/202106153/tlogo/bbr/UTA-2021.png",
       "players": [
         {
@@ -759,7 +757,7 @@
       ]
     },
     {
-      "teamName": "Denver Nuggets",
+      "id": 8,
       "teamImage": "https://d2p3bygnnzw9w3.cloudfront.net/req/202106153/tlogo/bbr/DEN-2021.png",
       "players": [
         {
@@ -795,7 +793,7 @@
       ]
     },
     {
-      "teamName": "Portland Trail Blazers",
+      "id": 25,
       "teamImage": "https://d2p3bygnnzw9w3.cloudfront.net/req/202106153/tlogo/bbr/POR-2021.png",
       "players": [
         {
@@ -831,7 +829,7 @@
       ]
     },
     {
-      "teamName": "Minnesota Timberwolves",
+      "id": 18,
       "teamImage": "https://d2p3bygnnzw9w3.cloudfront.net/req/202106153/tlogo/bbr/MIN-2021.png",
       "players": [
         {
@@ -867,7 +865,7 @@
       ]
     },
     {
-      "teamName": "Oklahoma City Thunder",
+      "id": 21,
       "teamImage": "https://d2p3bygnnzw9w3.cloudfront.net/req/202106153/tlogo/bbr/OKC-2021.png",
       "players": [
         {
@@ -903,7 +901,7 @@
       ]
     },
     {
-      "teamName": "Dallas Mavericks",
+      "id": 7,
       "teamImage": "https://d2p3bygnnzw9w3.cloudfront.net/req/202106153/tlogo/bbr/DAL-2021.png",
       "players": [
         {
@@ -939,7 +937,7 @@
       ]
     },
     {
-      "teamName": "Memphis Grizzlies",
+      "id": 15,
       "teamImage": "https://d2p3bygnnzw9w3.cloudfront.net/req/202106153/tlogo/bbr/MEM-2021.png",
       "players": [
         {
@@ -975,7 +973,7 @@
       ]
     },
     {
-      "teamName": "San Antonio Spurs",
+      "id": 27,
       "teamImage": "https://d2p3bygnnzw9w3.cloudfront.net/req/202106153/tlogo/bbr/SAS-2021.png",
       "players": [
         {
@@ -1011,7 +1009,7 @@
       ]
     },
     {
-      "teamName": "New Orleans Pelicans",
+      "id": 19,
       "teamImage": "https://d2p3bygnnzw9w3.cloudfront.net/req/202106153/tlogo/bbr/NOP-2021.png",
       "players": [
         {
@@ -1047,7 +1045,7 @@
       ]
     },
     {
-      "teamName": "Houston Rockets",
+      "id": 11,
       "teamImage": "https://d2p3bygnnzw9w3.cloudfront.net/req/202106153/tlogo/bbr/HOU-2021.png",
       "players": [
         {
